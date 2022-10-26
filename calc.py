@@ -8,3 +8,5 @@ print(f"sum  {x + y}")
 print(f"sub: {x - y}")
 print(f"Mul: {x * y}")
 print(f"Pow: {x ** y}")
+
+print("Bue bue")
